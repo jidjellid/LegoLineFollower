@@ -1,0 +1,40 @@
+* Membres de l'équipe
+| Nom          | Prénom |           e-mail                  | nº téléphone   |
+|--------------+--------+-----------------------------------+----------------|
+| IDJELLIDAINE | Joris  | joris.idjellidaine@etu.u-paris.fr | 06 98 48 62 49 |
+| PETIC        | Lucian |    lucian.petic@etu.u-paris.fr    | 06 67 13 32 88 |
+
+* Projet Selectionné : Suiveur de ligne
+
+
+* 3/11/2020
+** RDV mardi 10 novembre avec Lucian PETIC
+
+* 18/11/2020
+** à faire : 
+ - faire tourner un moteur (à des vitesses différentes)
+ - récuperer les valeurs RGB avec le capteur
+
+* 25/11/2020
+** fait:
+- tourner 2 moteurs
+
+** à faire: 
+- Faire apprendre 2 (ou plus) couleurs au robot en faisant un certain nombre de mesures (combien?)
+- un algo qui, étant donné une mesure, décide quelle couleur c'est
+
+* 09/12/2020
+** fait:
+- reconnaissance des couleurs
+
+* 23/01/2021
+** fait:
+- Calibrage du robot suivant des couleurs données
+- Suivre une ligne simple courbée
+
+** À FAIRE:
+- Augmenter la vitesse et la précision du Robot
+- Permettre au robot de retrouver la ligne en cas de perte
+
+
+Voir le fichier suivant: docs/history.md.
